@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
-
 int main()
 {
 	// 1 1 2 3 4 5 8 7 16 9 32.........128
@@ -31,6 +29,4 @@ int main()
 		j++;
 	}
 	printf("\n");
-	
-	
 }
